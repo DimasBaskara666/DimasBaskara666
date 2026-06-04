@@ -27,18 +27,23 @@ Currently, I'm working on my thesis focused on **Researcher → Research Group R
 ### Tech Stack
 
 **Languages**
+
 `Python` `SQL`
 
 **Data & Analytics**
+
 `Pandas` `NumPy` `Scikit-learn`
 
 **Databases**
+
 `PostgreSQL`
 
 **Tools**
+
 `Git` `Linux`
 
 **Currently Learning**
+
 `Apache Spark`
 
 ---
@@ -58,7 +63,9 @@ Currently, I'm working on my thesis focused on **Researcher → Research Group R
 ### Connect
 
 📧 [dimasbratakusumah@gmail.com](mailto:dimasbratakusumah@gmail.com)
+
 🐙 GitHub: **DimasBaskara666**
+
 📷 Instagram: **@dimasbaskara18**
 
 ---
