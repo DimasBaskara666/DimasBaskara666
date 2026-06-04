@@ -1,16 +1,73 @@
-## Hi there 👋
+<h1 align="center">Dimas Bratakusumah</h1>
 
-<!--
-**DimasBaskara666/DimasBaskara666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Final-Year Informatics Student • Indonesia
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+I'm a final-year Informatics student with a growing interest in **Data Engineering**, data processing pipelines, and research analytics.
+
+Currently, I'm working on my thesis focused on **Researcher → Research Group Recommendation Systems**, exploring topic modeling, information retrieval, and recommendation methodologies.
+
+---
+
+### Current Focus
+
+* Data Engineering
+* Data Processing Pipelines
+* Information Retrieval
+* Topic Modeling
+* Research Analytics
+
+---
+
+### Tech Stack
+
+**Languages**
+
+`Python` `SQL`
+
+**Data & Analytics**
+
+`Pandas` `NumPy` `Scikit-learn`
+
+**Databases**
+
+`PostgreSQL`
+
+**Tools**
+
+`Git` `Linux`
+
+**Currently Learning**
+
+`Apache Spark`
+
+---
+
+### Current Research
+
+**Research Placement Recommendation**
+
+* LDA
+* BERTopic
+* Cosine Similarity
+* Jensen-Shannon Divergence
+* Information Retrieval Evaluation
+
+---
+
+### Connect
+
+📧 [dimasbratakusumah@gmail.com](mailto:dimasbratakusumah@gmail.com)
+
+🐙 GitHub: **DimasBaskara666**
+
+📷 Instagram: **@dimasbaskara18*
+
+---
+
+> Building reliable data-driven systems, one project at a time.
