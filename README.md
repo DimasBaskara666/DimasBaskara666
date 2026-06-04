@@ -1,8 +1,12 @@
-<h1 align="center">Dimas Bratakusumah</h1>
+# Dimas Bratakusumah
 
 <p align="center">
-Final-Year Informatics Student • Indonesia
+final-year Informatics student • Indonesia
 </p>
+
+<!-- Badges -->
+[![GitHub followers](https://img.shields.io/github/followers/DimasBaskara666?label=Follow&style=social)](https://github.com/DimasBaskara666)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimasBaskara666&layout=compact)](https://github.com/DimasBaskara666)
 
 ---
 
@@ -16,35 +20,30 @@ Currently, I'm working on my thesis focused on **Researcher → Research Group R
 
 ### Current Focus
 
-* Data Engineering
-* Data Processing Pipelines
-* Information Retrieval
-* Topic Modeling
-* Research Analytics
+- Data Engineering
+- Data Processing Pipelines
+- Information Retrieval
+- Topic Modeling
+- Research Analytics
 
 ---
 
 ### Tech Stack
 
 **Languages**
-
-`Python` `SQL`
+Python · SQL
 
 **Data & Analytics**
-
-`Pandas` `NumPy` `Scikit-learn`
+Pandas · NumPy · Scikit-learn
 
 **Databases**
-
-`PostgreSQL`
+PostgreSQL
 
 **Tools**
+Git · Linux
 
-`Git` `Linux`
-
-**Currently Learning**
-
-`Apache Spark`
+**Learning**
+Apache Spark
 
 ---
 
@@ -63,10 +62,8 @@ Currently, I'm working on my thesis focused on **Researcher → Research Group R
 ### Connect
 
 📧 [dimasbratakusumah@gmail.com](mailto:dimasbratakusumah@gmail.com)
-
 🐙 GitHub: **DimasBaskara666**
-
-📷 Instagram: **@dimasbaskara18*
+📷 Instagram: **@dimasbaskara18**
 
 ---
 
